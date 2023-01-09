@@ -9,3 +9,5 @@ Note: Recenetly, we found a samll mistake of picture in TransRoadNet, and we hav
 Hope that the peers could understand and accommodate.
 ![image text]( https://github.com/CVer-Yang/TransRoadNet/blob/main/TransRoadNet.tif" This is the basic structure of the proposed TransRoadNet.")
 
+If you have any questions about this paper, please send an e-mail to 793665968@qq.com.
+
