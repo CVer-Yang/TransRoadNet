@@ -9,6 +9,5 @@ contextual information supplement module (FCISM) is proposed to provide foregrou
 the occluded area. Extensive experiments on the DeepGlobal road dataset showed the proposed method outperforms the existing methods in accuracy, IoU, Precision, F1-score, and yields
 competitive recall results, which demonstrated the efficiency of the new model.
 
-This is the basic structure of the proposed TransRoadNet.
-![image text]( https://github.com/CVer-Yang/TransRoadNet/blob/main/TransRoadNet.tif"This is the basic structure of the proposed TransRoadNet.")
+![image text]( https://github.com/CVer-Yang/TransRoadNet/blob/main/TransRoadNet.tif" This is the basic structure of the proposed TransRoadNet.")
 
