@@ -10,3 +10,5 @@ the occluded area. Extensive experiments on the DeepGlobal road dataset showed t
 competitive recall results, which demonstrated the efficiency of the new model.
 
 This is the basic structure of the proposed TransRoadNet.
+![image text]( https://github.com/CVer-Yang/TransRoadNet/blob/main/TransRoadNet.tif"This is the basic structure of the proposed TransRoadNet.")
+
