@@ -8,3 +8,5 @@ the expression ability for the road feature. Then the contextual information ext
 contextual information supplement module (FCISM) is proposed to provide foreground context information at different stages of the decoder, which can improve the inference ability for
 the occluded area. Extensive experiments on the DeepGlobal road dataset showed the proposed method outperforms the existing methods in accuracy, IoU, Precision, F1-score, and yields
 competitive recall results, which demonstrated the efficiency of the new model.
+
+This is the basic structure of the proposed TransRoadNet.
